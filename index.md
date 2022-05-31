@@ -42,4 +42,14 @@ threatened with harm. Think about who needs protecting, and where everyone is in
 # Playbooks #
 
 - [Playbooks](playbooks-SM.pdf):  Form-fillable versions of all of the available playbooks
-- [Playbook folder](playbooks):  Separate PDF for each playbook
+	- [Crooked](playbooks/Crooked.pdf)
+	- [Expert](playbooks/Expert.pdf)
+	- [Flake](playbooks/Flake.pdf)
+	- [Gumshoe](playbooks/Gumshoe.pdf)
+	- [Hex](playbooks/Hex.pdf)
+	- [Initiate](playbooks/Initiate.pdf)
+	- [Mundane](playbooks/Mundane.pdf)
+	- [Professional](playbooks/Professional.pdf)
+	- [Searcher](playbooks/Searcher.pdf)
+	- [Spooky](playbooks/Spooky.pdf)
+	- [Wronged](playbooks/Wronged.pdf)
