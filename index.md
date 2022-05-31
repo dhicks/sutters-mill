@@ -19,6 +19,10 @@ toc-float: true
 	1. Describe what you're doing, and how
 	2. Keeper will react
 	3. React to what the Keeper just said (step 1)
+- A little jargon
+	- **Hold**:  An abstract resource.  The move that gives you hold will also tell you what you can do with it.  Hold generally lasts only through the current scene.  
+	- **+1 forward**:  Add 1 to your next dice roll. 
+	- **-1 ongoing**:  Subtract 1 from every roll you make until the situation no longer applies.  
 - [Hunter reference](Hunter reference.pdf):  A handout, designed for new players, that summarizes the basic moves and a few other mechanics
 - [An Example Fight](An Example Fight.pdf):  MotW pages 215-222, which shows an example of combat
 - [Use Magic](Use Magic.pdf):  MotW pages 195-198, with the rules for Use Magic and Ritual Magic
