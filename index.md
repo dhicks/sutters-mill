@@ -42,8 +42,4 @@ threatened with harm. Think about who needs protecting, and where everyone is in
 # Playbooks #
 
 - [Playbooks](playbooks-SM.pdf):  Form-fillable versions of all of the available playbooks
-
-
-
-
-
+- [Playbook folder](playbooks):  Separate PDF for each playbook
