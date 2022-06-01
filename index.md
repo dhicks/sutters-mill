@@ -51,5 +51,6 @@ threatened with harm. Think about who needs protecting, and where everyone is in
 	- [Mundane](playbooks/Mundane.pdf)
 	- [Professional](playbooks/Professional.pdf)
 	- [Searcher](playbooks/Searcher.pdf)
+	- [Snoop](playbooks/Snoop.pdf)
 	- [Spooky](playbooks/Spooky.pdf)
 	- [Wronged](playbooks/Wronged.pdf)
